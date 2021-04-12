@@ -11,9 +11,11 @@
 </platform>
 <platform name="android">
 <config-file parent="/*" target="res/xml/config.xml">
-<feature name="Multiplier"><param name="android-package" value="cordova-plugin-multiplier.Multiplier" />
-</feature></config-file>
+<feature name="Multiplier">
+<param name="android-package" value="com.task2.Multiplier" />
+</feature>
+</config-file>
 <config-file parent="/*" target="AndroidManifest.xml"></config-file>
-<source-file src="src/android/Multiplier.java" target-dir="src/cordova-plugin-multiplier/Multiplier" />
+<source-file src="src/android/com/task2/Multiplier.java" target-dir="src/com/task2" />
 </platform>
 </plugin>
