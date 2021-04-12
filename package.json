@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-multiplier",
+  "version": "1.0.0",
+  "description": "A cordova plugin for multiplication",
+  "cordova": {
+    "id": "cordova-plugin-multiplier",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "Gaurav Kumar",
+  "license": "MIT"
+}
