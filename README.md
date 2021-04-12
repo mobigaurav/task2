@@ -1,5 +1,5 @@
 # task2
-A cordova app for multiplication
+A cordova plugin for multiplication
 
 # Usage
 
