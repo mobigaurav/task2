@@ -3,7 +3,7 @@ A cordova plugin for multiplication
 
 # Usage
 
-Download the plugin on your local system
+Download the project on your local system
 
 Add the plugin using command- cordova plugin add (/path where project is downloaded) 
 
