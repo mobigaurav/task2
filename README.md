@@ -3,9 +3,12 @@ A cordova plugin for multiplication
 
 # Usage
 
-1.) Download the plugin on your local system
-2.) Add the plugin using command- cordova plugin add  /path where project is downloaded/Multiplier 
-3.) cordova build ios, cordova run ios
-4.) cordova run ios, cordova run android
+Download the plugin on your local system
+
+Add the plugin using command- cordova plugin add (/path where project is downloaded) 
+
+For iOS- cordova build ios, cordova run ios
+
+For Android- cordova build android, cordova run android
 
 
